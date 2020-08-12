@@ -1,2 +1,6 @@
 # JavaFX
-eclipse JavaFX プロジェクト
+### eclipse JavaFX プロジェクト
+
+- chapter1  (practice)
+- chapter2  (practice)
+- othello   (product)
